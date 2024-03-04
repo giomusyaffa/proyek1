@@ -14,7 +14,7 @@ Dhia Religio Musyaffa
 ML-67 
 Bangkit Academy Cohort 2024
 """
-st.image("Bangkit.png",width=400)
+st.image("bangkit.png",width=400)
 
 # Set the background to a light gray color
 plt.rcParams['figure.facecolor'] = 'lightgray'
